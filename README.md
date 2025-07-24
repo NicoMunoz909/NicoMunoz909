@@ -1,8 +1,11 @@
 # 👋 Hey there! 
 
-I'm Nicolás Muñoz, a self-taught web developer with a passion for building scalable and efficient applications. I specialize in React, Node.js, and full-stack development, always striving to optimize workflows and enhance user experiences.
+I'm Nicolás Muñoz, a self-taught full-stack web developer with a strong focus on building efficient, scalable, and user-friendly applications. I specialize in React, Node.js, and JavaScript, and I’m always looking for ways to optimize workflows and create meaningful digital experiences.
 
-💡 With 2+ years of experience, I've worked on projects ranging from inventory management systems to e-commerce platforms and budget tracking applications. My background in mechanical engineering has given me a strong foundation in mathematics and problem-solving, which I apply daily in my coding journey.
+### 💼 About Me
+💡 With over 2 years of hands-on experience, I’ve built and maintained projects ranging from inventory management systems to e-commerce platforms and budget tracking apps.
+
+My background in mechanical engineering gives me a solid foundation in math and problem-solving — skills I apply daily in my development work.
 
 ### 🔧 Tech Stack:
 
