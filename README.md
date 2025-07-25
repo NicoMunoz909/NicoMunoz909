@@ -1,6 +1,6 @@
 # 👋 Hey there! 
 
-I'm Nicolás Muñoz, a self-taught full-stack web developer with a strong focus on building efficient, scalable, and user-friendly applications. I specialize in React, Node.js, and JavaScript, and I’m always looking for ways to optimize workflows and create meaningful digital experiences.
+I'm Nicolás Muñoz, a self-taught full-stack web developer with a strong focus on building efficient, scalable, and user-friendly applications. I specialize in React, Node.js, and JavaScript, and I’m passionate about streamlining workflows and delivering clean, effective solutions through code.
 
 ### 💼 About Me
 💡 With over 2 years of hands-on experience, I’ve built and maintained projects ranging from inventory management systems to e-commerce platforms and budget tracking apps.
@@ -20,13 +20,17 @@ Tools & Platforms: Git, GitHub, Vercel, Render
 
 ### 🔍 What I Bring:
 
-A problem-solving mindset, always looking for the most efficient and scalable solutions.
+A pragmatic problem-solver, focused on building scalable, maintainable, and efficient applications.
 
 A structured and analytical approach to development.
 
 The ability to work independently and quickly adapt to new technologies.
 
 A passion for innovation, automation, and improving processes.
+
+### 💻 Portfolio Web
+
+🎨 [Check out my portfolio](https://nicomunoz-portfolio.vercel.app/) to explore my featured projects.
 
 ### 🌱 Currently Learning: 
 
